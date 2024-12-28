@@ -1,0 +1,8 @@
+num = 15
+if num > 0:
+    if num % 2 == 0:
+        print("Positive even number")
+    else:
+        print("Positive odd number")
+else:
+    print("Non-positive number")
